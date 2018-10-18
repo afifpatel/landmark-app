@@ -6,7 +6,7 @@
   "scripts": {
     "compile": "webpack",
     "watch": "webpack-dev-server --hot --inline",
-    "start": "node -w dist dist/server.js",
+    "start": "nodemon -w dist dist/server.js",
     "compile-server": "babel server.js --presets es2015-node4 --out-dir dist --source-maps",
     "watch-server": "babel server.js --presets es2015-node4 --out-dir dist --source-maps --watch",
     "start-hook": "nodemon -w server server/start_hook.js",
