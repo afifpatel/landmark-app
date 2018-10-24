@@ -58,4 +58,4 @@ MongoDB instance on local machine. Please find instructions to configure MongoDB
     
 ### Website
     
-    https://landmark-remarks.herokuapp.com/
+    <https://landmark-remarks.herokuapp.com/>
