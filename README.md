@@ -10,12 +10,6 @@ A user (of the application) I can see my current location on a map
 
 ## Getting Started
 
-These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
-
-### Prerequisites
-
-MongoDB instance on local machine. Please find instructions to configure MongoDB here : https://docs.mongodb.com/v3.2/administration/install-community/
-
 ### Start Application
                                                           
   Please read how to use application and then click on the website link below.
@@ -50,7 +44,7 @@ MongoDB instance on local machine. Please find instructions to configure MongoDB
     - Node Express - Server 
     - MongoDB - Database
 
-### Authors
+### Author
     
     Afif Patel
     
