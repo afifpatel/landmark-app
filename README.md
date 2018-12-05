@@ -18,11 +18,9 @@ MongoDB instance on local machine. Please find instructions to configure MongoDB
 
 ### Start Application
                                                           
-- In command prompt, start mongo instance with command : `mongod`
-                                                         
-- In other command prompt, go to the project folder directory on your local machine and run command `npm run dev-all`
-
-- Open browser and enter `http://localhost:8000/`
+  Please read how to use application and then click on the website link below.
+  
+  https://landmark-remarks.herokuapp.com
 
 ### Use Application
 
@@ -55,7 +53,4 @@ MongoDB instance on local machine. Please find instructions to configure MongoDB
 ### Authors
     
     Afif Patel
-    
-### Website   
-   https://landmark-remarks.herokuapp.com
     
